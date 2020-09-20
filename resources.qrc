@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/16.png</file>
+        <file>img/32.png</file>
+        <file>img/64.png</file>
+        <file>img/mainicon16x.png</file>
+        <file>img/mainicon32x.png</file>
+        <file>img/mainicon64x.png</file>
+        <file>img/Paleta.png</file>
+        <file>img/Pędzel.png</file>
+        <file>img/web.png</file>
+        <file>img/info.png</file>
+        <file>img/exit.png</file>
+    </qresource>
+</RCC>
